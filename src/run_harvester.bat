@@ -47,7 +47,7 @@ echo.
 
 REM Run the main Python script.
 REM Using 'python' is often sufficient after venv activation, but 'python3' is used as requested.
-python3 main.py
+python main.py
 
 echo.
 echo --------------------------------------------
