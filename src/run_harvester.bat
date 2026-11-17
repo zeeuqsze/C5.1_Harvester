@@ -2,7 +2,7 @@
 REM This script activates the Python virtual environment and runs the C5.1_Harvester main script.
 
 REM Set the path to your project folder within My Documents
-set "PROJECT_DIR=%USERPROFILE%\Documents\COUNTER_Harvester\C5.1_Harvester"
+set "PROJECT_DIR=%USERPROFILE%\Documents\GitHub\C5.1_Harvester"
 
 REM --- SCRIPT START ---
 
