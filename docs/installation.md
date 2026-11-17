@@ -26,7 +26,7 @@ Get the latest stable version (ie not "pre-release" status one).
 
 Mac users may find they already have it, but make sure you have Python 3, not Python 2.
 
-There are a few third-party packages required to be installed separately. They are in **the requirements.txt** file.
+There are a few third-party packages required to be installed separately. They are in the **requirements.txt** file.
 The python utility that helps you install third-party packages is called **pip**. In some cases, you need to call it **pip3** for python 3.
 
 Here is how you use pip. From a command line window/terminal/shell in the folder where you unzipped this project:

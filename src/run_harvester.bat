@@ -23,7 +23,7 @@ echo.
 echo Activating the Python virtual environment...
 
 REM Activate the virtual environment. We use CALL to ensure the script continues after activation.
-CALL "%PROJECT_DIR%\venv\Scripts\activate.bat"
+CALL "%PROJECT_DIR%\charvest\Scripts\activate.bat"
 
 REM Check if the venv was activated successfully (the _VENV_ACTIVATED flag is set by some venvs)
 IF NOT DEFINED VIRTUAL_ENV (
